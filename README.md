@@ -1,2 +1,3 @@
-# hello-github
-My first practice repo on GitHub
+# Hello GitHub 👋
+
+This is my first practice repository on GitHub.
